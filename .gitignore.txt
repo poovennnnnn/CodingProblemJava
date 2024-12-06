@@ -1,0 +1,75 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.settings/
+.classpath
+.project
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+out/
+
+# NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbi/
+
+# VS Code project files
+.vscode/
+
+# Maven specific
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific
+.gradle/
+build/
+
+# Kotlin specific
+*.kotlin_module
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*~
+*.temp
+*.tmp
+*.bak
+*.old
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+
+# Java Virtual Machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Local environment configuration files
+.env
